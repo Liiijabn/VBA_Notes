@@ -4,7 +4,7 @@
 
 Visual Basic for Applications（VBA）是Visual Basic的一种宏语言，是微软开发出来在其桌面应用程序中执行通用的自动化(OLE)任务的编程语言。
 
-[官方入门介绍文档](https://docs.microsoft.com/zh-cn/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
+- [官方入门介绍文档](https://docs.microsoft.com/zh-cn/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
 
 
 ## 学习参考资料
